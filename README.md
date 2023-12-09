@@ -22,3 +22,6 @@
 ##### _Mkdir ✅
 ##### _Rmdir ✅
 ##### _GtDir ✅
+
+#### Terminal 
+##### execute ✅
